@@ -1,9 +1,6 @@
 [submodule "flipper_toolbox"]
 	path = flipper_toolbox
 	url = https://github.com/evilpete/flipper_toolbox
-[submodule "Sub-GHz/flipperzero-bruteforce"]
-	path = Sub-GHz/flipperzero-bruteforce
-	url = https://github.com/tobiabocchi/flipperzero-bruteforce
 [submodule "BadUSB/Jakoby_BadUSB"]
 	path = BadUSB/Jakoby_BadUSB
 	url = https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB
@@ -67,3 +64,12 @@
 [submodule "NFC/Amiibo/Lanjelin-Converter"]
 	path = NFC/Amiibo/Lanjelin-Converter
 	url = https://github.com/Lanjelin/AmiiboConverter
+[submodule "BadUSB/MacOS-47LeCoste"]
+	path = BadUSB/MacOS-47LeCoste
+	url = https://github.com/grugnoymeme/flipperzero-badUSB
+[submodule "Graphics/mnenkov"]
+	path = Graphics/mnenkov
+	url = https://github.com/mnenkov/flipper-zero-animations
+[submodule "BadUSB/BadGPT"]
+	path = BadUSB/BadGPT
+	url = https://github.com/ooovenenoso/BadUSB-GPT
